@@ -4,7 +4,7 @@
 
 ## About me
 - 🇩🇪 - Currently living in Germany - Hamburg
-- 💻 - I am currently working as a Software Engineer for Search at <img href="https://www.linkedin.com/in/kolja-hopfmann-5a9b48189/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto_GmbH_logo.svg/320px-Otto_GmbH_logo.svg.png" min-width="20px" max-width="20px" width="30px" align="center" alt="OTTO">
+- 💻 - I am currently working as a Software Engineer for Search at <img href="https://www.linkedin.com/in/kolja-hopfmann-5a9b48189/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto_GmbH_logo.svg/320px-Otto_GmbH_logo.svg.png" min-width="20px" max-width="20px" width="35px" align="center" alt="OTTO">
 - 📊 - I 💜 data and data driven development
 - 🤖 - Machine Larning and NLP enthusiast
 - 📐 - Clean Code   
