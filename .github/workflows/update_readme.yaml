@@ -16,7 +16,7 @@ permissions:
   packages: read
   pages: write
   pull-requests: write
-  repository-projects: read|write|none
+  repository-projects: read
 
 
 jobs:
