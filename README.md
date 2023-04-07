@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi there, I'm Kolja, also known as Hoppix on the internet 💜
+### Hi there, I'm Kolja, also known as Hoppix on the internet
 
 ## About me
 - 🇩🇪 - Currently living in Germany - Hamburg
