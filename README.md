@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Max 👋
+### Hi there, I'm Kolja, also known as Hoppix on the internet 👋
 
 ## Behold! My Stuff!!
 
