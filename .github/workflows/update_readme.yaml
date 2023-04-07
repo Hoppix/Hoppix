@@ -5,6 +5,20 @@ on:
     - cron: "0 0 */3 * *"
   workflow_dispatch:
 
+permissions:
+  actions: write
+  checks: write
+  contents: read
+  deployments: read
+  id-token: read
+  issues: read
+  discussions: read
+  packages: read
+  pages: write
+  pull-requests: write
+  repository-projects: read|write|none
+
+
 jobs:
   build:
     name: Jobs to update datas
