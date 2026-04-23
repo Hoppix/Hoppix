@@ -41,4 +41,3 @@
 <div> 
 <a href="https://www.linkedin.com/in/kolja-hopfmann-5a9b48189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/hoppix/hoppix/blob/output/github-contribution-grid-snake.svg)
