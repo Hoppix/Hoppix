@@ -2,7 +2,7 @@
 
 ## About me
 - 🇩🇪 - Currently living in Germany - Hamburg
-- 💻 - I am currently working as a Software Engineer for Search at <img href="https://www.linkedin.com/in/kolja-hopfmann-5a9b48189/" src="[https://www.youtube.com/channel/UClqYgJyT51vGS2JavNoQaRQ/about](https://www.google.com/imgres?q=otto%20icon&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2FAp_edmKUuZzvekNYfqaWDyA0pnq2fIYEXcTrwn5CKBq0iqUu1t4y2ARM5PY2AamkyCXKaSh1HA%3Ds900-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUClqYgJyT51vGS2JavNoQaRQ%2Fabout&docid=Oh9IrUuWNE4MaM&tbnid=YCmVnkjaEhSueM&vet=12ahUKEwjQv-GFuYSUAxXIB9sEHZf9G60QnPAOegQIHBAB..i&w=900&h=900&hcb=2&ved=2ahUKEwjQv-GFuYSUAxXIB9sEHZf9G60QnPAOegQIHBAB)" min-width="20px" max-width="20px" width="35px" align="center" alt="OTTO">
+- 💻 - I am currently working as a Software Engineer for Search
 - 📊 - I 💜 data and data driven development
 - 🤖 - Machine Learning and NLP enthusiast
 - 📐 - OOP is bloat
