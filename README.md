@@ -24,19 +24,6 @@
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal"/>
 </p>
 
-<br>
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hoppix&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoppix&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<br>
-
----
-
 <p align="left">
   <a href="https://www.linkedin.com/in/kolja-hopfmann-5a9b48189/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
